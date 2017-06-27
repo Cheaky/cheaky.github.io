@@ -37,7 +37,7 @@ menu {
   padding: 0;
 }
 body {
-  background-color: #DEB887;
+  background-color: #FFFFFF;
   padding: 0;
   margin: 0;
   font-size: 0.16rem;
@@ -512,7 +512,7 @@ a,
     background-color: #E5F0FA;
   }
   to {
-    background-color: #DEB887;
+    background-color: #FFFFFF;
   }
 }
 @-moz-keyframes targetColor {
@@ -520,7 +520,7 @@ a,
     background-color: #E5F0FA;
   }
   to {
-    background-color: #DEB887;
+    background-color: #FFFFFF;
   }
 }
 @-ms-keyframes targetColor {
@@ -528,7 +528,7 @@ a,
     background-color: #E5F0FA;
   }
   to {
-    background-color: #DEB887;
+    background-color: #FFFFFF;
   }
 }
 @-o-keyframes targetColor {
@@ -536,7 +536,7 @@ a,
     background-color: #E5F0FA;
   }
   to {
-    background-color: #DEB887;
+    background-color: #FFFFFF;
   }
 }
 @keyframes targetColor {
@@ -544,7 +544,7 @@ a,
     background-color: #E5F0FA;
   }
   to {
-    background-color: #DEB887;
+    background-color: #FFFFFF;
   }
 }
 @-webkit-keyframes shake {
@@ -1902,7 +1902,7 @@ a,
 header {
   box-sizing: border-box;
   position: fixed;
-  background-color: #DEB887;
+  background-color: #FFFFFF;
   z-index: 888;
   overflow: hidden;
   top: 0;
@@ -1924,7 +1924,7 @@ header:after {
 header #site-meta {
   float: left;
   height: 100%;
-  background-color: #DEB887;
+  background-color: #FFFFFF;
 }
 header #site-meta #logo {
   display: inline-block;
@@ -1949,7 +1949,7 @@ header #site-meta .subtitle {
 }
 header #nav {
   float: right;
-  background-color: #DEB887;
+  background-color: #FFFFFF;
   zoom: 1;
 }
 header #nav:after {
@@ -2011,6 +2011,7 @@ header #nav a i {
   background-clip: padding-box;
   border: 1px solid #cecece;
   color: #666666;
+  background-color: #FFFFBF;
   overflow: hidden;
   padding: .2rem;
   font-size: 0.14rem;
@@ -2162,7 +2163,7 @@ header #nav a i {
 }
 #page-nav .current {
   background-color: #6699cc;
-  color: #DEB887;
+  color: #FFFFFF;
   border-color: #6699cc;
 }
 #page-nav .next {
@@ -2242,7 +2243,7 @@ header #nav a i {
   margin-bottom: 5px;
 }
 #tools li:before {
-  color: #DEB887;
+  color: #FFFFFF;
 }
 #tools li:hover {
   background-color: #403E3E;
@@ -2295,7 +2296,7 @@ header #nav a i {
   padding: 0.2rem;
   margin: 0 auto;
   border: 0.02rem solid #cecece;
-  background-color: #DEB887;
+  background-color: #FFFFFF;
 }
 #search-area .input-wrap {
   position: relative;
