@@ -3,6 +3,40 @@
     
     
     <entry>
+        <title><![CDATA[Another Post]]></title>
+        <url>http://yoursite.com/2017/06/27/Another-Post/</url>
+        <content type="html"><![CDATA[<p>anoder Post</p>
+]]></content>
+        
+        <categories>
+            
+            <category> ssss </category>
+            
+            <category> 2222 </category>
+            
+            <category> 555 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> post </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+        <title><![CDATA[TEST POST]]></title>
+        <url>http://yoursite.com/2017/06/27/TEST-POST/</url>
+        <content type="html"><![CDATA[<p>Helo Hexo!</p>
+]]></content>
+        
+        
+    </entry>
+    
+    <entry>
         <title><![CDATA[Hello World]]></title>
         <url>http://yoursite.com/2017/06/27/hello-world/</url>
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
